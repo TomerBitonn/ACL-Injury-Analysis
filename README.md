@@ -32,5 +32,5 @@ One of the key outputs is a correlation heatmap showing relationships between tr
    git clone https://github.com/username/ACL-Injury-Analysis.git
  
  2. Open the notebook:
- ```bash
+   ```bash
     jupyter notebook AthletesInjuries.ipynb
