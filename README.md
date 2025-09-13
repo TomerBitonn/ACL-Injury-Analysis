@@ -28,11 +28,11 @@ One of the key outputs is a correlation heatmap showing relationships between tr
 
 ## Usage
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/ACL-Injury-Analysis.git
-   ```
+```bash
+git clone https://github.com/username/ACL-Injury-Analysis.git
+```
  
  2. Open the notebook:
-   ```bash
-   jupyter notebook AthletesInjuries.ipynb
-   ```
+```bash
+jupyter notebook AthletesInjuries.ipynb
+```
